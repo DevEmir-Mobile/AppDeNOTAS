@@ -1,5 +1,4 @@
 import 'package:bloc_de_notas/screens/home_screen.dart';
-import 'package:bloc_de_notas/screens/notas_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

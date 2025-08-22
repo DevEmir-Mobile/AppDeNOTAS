@@ -1,0 +1,3 @@
+Fue un buen proyecto de practica me hizo dudar de muchas cosas, renegar mucho, pero aprendi bastante.
+Que aprendi? A manejar parametros enviando datos a traves de widgets, al uso de listview. Me vi obligado a mejorar mi logica
+de programacion, comprendi mejor el uso de setstates.
